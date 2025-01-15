@@ -7,4 +7,4 @@ A = Set alarm
 ////// All commands should be done in twos. Ex: 01 for one, 15 for 15, 03 for three.
 
 /// A DS1302 RTC IS NEEDED, A DS1307 WILL NOT WORK.
-/// SAME GOES WITH AN ARDUINO MEGA.
+/// SAME GOES WITH AN ARDUINO MEGA. 
